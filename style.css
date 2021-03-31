@@ -1,0 +1,91 @@
+
+*{
+  margin:0;
+  padding: 0;
+}
+body{
+  background-image: url('flower.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+  width: 100%;
+  background-size: 100% 100%;
+  position: relative;
+  
+}
+.mainnav{
+  background-color: rgb(22, 18, 18);
+  width: 100%;
+}
+.topnav{
+
+  position: absolute;
+  right: 5%;
+  top: 0;
+}
+.topnav-right{
+  position: relative;
+  left: 20px;
+  padding: 14px 16px;
+  text-decoration:none;
+  font-size: 120%;
+  font-weight: bold;
+
+  
+}
+a{
+  text-decoration: none;
+  color: rgb(196, 185, 206);
+}
+li{
+  display: inline-block;
+  color: rgb(131, 30, 156);
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration:none;
+  font-size: 150%;
+  font-weight: bold;
+}
+li a:hover {
+  color: black;
+  background-color: #caf7e3;
+}
+img{
+  max-width: 100%;
+}
+img img12{
+  width: 100px;
+}
+
+  
+  .image-text{
+    font-family: 'Akaya Telivigala', cursive;
+    color:#9a8194 ;
+    font-size:20px;
+    font-style: italic;
+    text-align:left;
+
+   text-shadow: 2px 2px rgb(70, 21, 148);
+    
+
+}
+.image-text h1{
+  
+  margin: auto;
+position: absolute;
+left: 30%;
+top: 350px;
+
+  
+
+}
+
+
+    
+
+
+
+    
+    
+    
+  }
